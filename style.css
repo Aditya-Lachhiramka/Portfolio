@@ -138,7 +138,17 @@ h1 {
     background-size: cover;
     background-position: center;
 }
-
+.Hangman-Word-Guess-project {
+    width: 400px;
+    height: 400px;
+    background: white;
+    position: relative;
+    border-radius: 10px;
+    background-image: url("hangman-word-guess.jpg");
+    margin: 20px;
+    background-size: cover;
+    background-position: center;
+}
 .Secret-Message-project {
     width: 400px;
     height: 400px;
